@@ -1,0 +1,17 @@
+{
+  "Header": {
+    "Languages": "Tillar",
+    "home": "Bosh sahifa",
+    "shop": "Xaridlar",
+    "contact": "Bog'lanish",
+    "blog": "Bloglar"
+  },
+  "Home": {
+    "hero": {
+      "p1": "Yangi kelganlar",
+      "h1": "Yangi to'plamimizni sinab ko'ring!",
+      "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis",
+      "btn": "Hoziroq oling"
+    }
+  }
+}
